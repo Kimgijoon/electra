@@ -1,0 +1,1 @@
+{"seq_len": 512, "dropout_prob": 0.1, "train": 80000, "valid": 20000}
